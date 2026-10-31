@@ -365,7 +365,7 @@ Uma página, com a leitura na ordem **resposta → contexto → causa**: o insig
 
 **Print 4: Ranking de canais por faturamento e devoluções por canal**
 
-![Gráfico de barras horizontais com o faturamento por canal, com a Store em primeiro lugar com 6,9 bilhões, ao lado de um gráfico de colunas com o valor das devoluções por canal e pontos indicando o percentual de devolução, entre 1,1% e 1,3%](imagens/Devoluções-e-Ranking.jpg)
+![Gráfico de barras horizontais com o faturamento por canal, com a Store em primeiro lugar com 6,9 bilhões, ao lado de um gráfico de colunas com o valor das devoluções por canal e pontos indicando o percentual de devolução, entre 1,1% e 1,3%](imagens/Devolucoes-e-Ranking.jpg)
 
 **Print 5: Tabela de apoio com os indicadores por canal**
 
