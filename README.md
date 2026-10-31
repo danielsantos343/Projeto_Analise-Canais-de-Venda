@@ -204,11 +204,11 @@ Todas as medidas ficam na tabela `_Medidas`. Elas **devem ser criadas na ordem a
 
 **Print 2: Tabela de medidas `_Medidas` no Power BI**
 
-![Painel de dados do Power BI com a tabela _Medidas expandida, listando as medidas de faturamento, devoluções, percentual de devolução, ranking e insight dinâmico](imagens/Medidas-DAX.jpg)
+![Painel de dados do Power BI com a tabela _Medidas expandida, listando as medidas de faturamento, devoluções, percentual de devolução, ranking e insight dinâmico](imagens/Medidas-Dax.jpg)
 
 ### 5.1 Faturamento Total
 
-![Medida Faturamento Total](imagens/Faturamento-Total.jpg)
+![Medida Faturamento Total](imagens/Faturamento-total.jpg)
 
 Soma o valor de todas as vendas no contexto atual.
 
@@ -244,7 +244,7 @@ Calcula a fatia do faturamento de cada canal no total de todos os canais.
 
 ### 5.7 Ranking do Canal
 
-![Medida Ranking do Canal](imagens/Ranking-do-Canal.jpg)
+![Medida Ranking do Canal](imagens/Ranking-do-canal.jpg)
 
 Dá a posição de cada canal por faturamento, em ordem decrescente (1 = maior).
 
